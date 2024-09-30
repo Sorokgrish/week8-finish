@@ -1,0 +1,18 @@
+.card-header{
+ background-color: gray;
+}
+.text-color{
+   color: aliceblue;
+}
+#img{
+    width: 100%;
+}
+.text-center{
+   display: flex;
+   justify-content: space-evenly;
+   color: aliceblue;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly; 
+}
